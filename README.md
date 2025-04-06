@@ -7,7 +7,7 @@ It took quite a lot of thinking to come up with a solution to help improve onlin
 SkillLeaf connects students to professors. Anyone can teach classes on SkillLeaf and charge their own price for their class. SkillLeaf is unique because it creates an actual classroom-like environment which can't be found anywhere else. It helps provoke learning by allowing students to ask questions in real time like they would with a professor, unlike if you were simply watching a lecture.
 
 ## How we built it
-We started with `npx create-next-app` to get a template Next.js application with Tailwindcss. From there we built the application from the ground up using Google's Firebase. We also integrated with Iron-Session for our sessions and Bcrypt for password hashing.
+We started with `npx create-next-app` to get a template Next.js application with Tailwindcss. From there we built the application from the ground up using Google's Firebase. We also integrated with Iron-Session for our sessions and Bcrypt for password hashing. Hosted on azure
 
 ## Challenges we ran into
 No one on our team had used Firebase before, so it was a little bit of a learning curve coming from a traditional structured relational schema like SQL.
